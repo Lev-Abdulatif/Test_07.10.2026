@@ -43,6 +43,7 @@ body {
   height: 573px;
   padding: 25px;
   background: #F7F7FA;
+  box-shadow: 0 0 10px 2px rgba(242, 242, 247, 0.5);
 }
 
 .product-image {
